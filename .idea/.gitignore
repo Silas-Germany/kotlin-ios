@@ -1,0 +1,12 @@
+# Default ignored files
+/workspace.xml
+
+/caches
+/libraries
+/modules.xml
+/navEditor.xml
+/assetWizardSettings.xml
+
+# Additionally ignored files
+/misc.xml
+modules
