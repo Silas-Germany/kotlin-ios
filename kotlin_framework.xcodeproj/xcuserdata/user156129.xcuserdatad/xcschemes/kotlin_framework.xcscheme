@@ -7,10 +7,10 @@
             buildForRunning = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "214D4683873480AE639DB47E"
-               BuildableName = "application.app"
-               BlueprintName = "application"
-               ReferencedContainer = "container:application.xcodeproj">
+               BlueprintIdentifier = "214D413BA6FEC7A64F2FC553"
+               BuildableName = "kotlin_framework.app"
+               BlueprintName = "kotlin_framework"
+               ReferencedContainer = "container:kotlin_framework.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -22,10 +22,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "214D4683873480AE639DB47E"
-            BuildableName = "application.app"
-            BlueprintName = "application"
-            ReferencedContainer = "container:application.xcodeproj">
+            BlueprintIdentifier = "214D413BA6FEC7A64F2FC553"
+            BuildableName = "kotlin_framework.app"
+            BlueprintName = "kotlin_framework"
+            ReferencedContainer = "container:kotlin_framework.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>

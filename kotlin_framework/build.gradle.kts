@@ -9,6 +9,6 @@ repositories {
 
 kotlin {
     xcode {
-        setupApplication("application")
+        setupApplication("kotlin_framework")
     }
 }

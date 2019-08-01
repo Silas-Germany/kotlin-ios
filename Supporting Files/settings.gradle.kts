@@ -6,6 +6,6 @@ pluginManagement {
 
 enableFeaturePreview("GRADLE_METADATA")
 
-include(":application")
-project(":application").projectDir = file("../application")
+include(":kotlin_framework")
+project(":kotlin_framework").projectDir = file("../kotlin_framework")
 rootProject.name = file("..").name

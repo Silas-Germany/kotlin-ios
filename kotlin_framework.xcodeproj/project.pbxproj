@@ -7,30 +7,30 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		214D445A7089F2E41A9C15BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 214D4E3D533AE3D05139F201 /* Main.storyboard */; };
-		214D4BA91976104A2E41442A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 214D4D0E876B84F98774AE8F /* LaunchScreen.storyboard */; };
-		214D4D6BA9C2F9C6B015E280 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 214D46729617DEEB2A0A04D7 /* Assets.xcassets */; };
+		214D425101C6917D45303588 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 214D471C58FDD2B26E4F74EC /* Main.storyboard */; };
+		214D4484F93BE3CC8B57DA50 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 214D4C6779CDFEBE06700906 /* LaunchScreen.storyboard */; };
+		214D4E7AE55994DFB2702B16 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 214D4A2CEB2AE6E23A6082E7 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		214D4023CADEA246C5CA1EF5 /* gradle-wrapper.properties */ = {isa = PBXFileReference; lastKnownFileType = file.properties; path = "gradle-wrapper.properties"; sourceTree = "<group>"; };
-		214D412C1B325A929D90D74B /* gradlew */ = {isa = PBXFileReference; lastKnownFileType = text; path = gradlew; sourceTree = "<group>"; };
-		214D42300E53432CD8F94DD8 /* ViewController.kt */ = {isa = PBXFileReference; lastKnownFileType = file.kt; path = ViewController.kt; sourceTree = "<group>"; };
-		214D42376290795CEAE28D00 /* build.gradle.kts */ = {isa = PBXFileReference; lastKnownFileType = file.kts; path = build.gradle.kts; sourceTree = "<group>"; };
-		214D4507971EEC88C163900B /* AppDelegate.kt */ = {isa = PBXFileReference; lastKnownFileType = file.kt; path = AppDelegate.kt; sourceTree = "<group>"; };
-		214D46729617DEEB2A0A04D7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		214D476583097AF8F428082D /* gradle-wrapper.jar */ = {isa = PBXFileReference; lastKnownFileType = archive.jar; path = "gradle-wrapper.jar"; sourceTree = "<group>"; };
-		214D483E5B5F6387565C1E4D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		214D4865F7DAEC79C52EDC61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
-		214D4C485F118E6D5CD970D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		214D4C6EF736932B85D96046 /* settings.gradle.kts */ = {isa = PBXFileReference; lastKnownFileType = file.kts; path = settings.gradle.kts; sourceTree = "<group>"; };
-		214D4D5F9C1475A159AA880F /* application.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = application.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		214D4DA52B2BA34B441DECB6 /* build.gradle.kts */ = {isa = PBXFileReference; lastKnownFileType = file.kts; path = build.gradle.kts; sourceTree = "<group>"; };
-		214D4FEA2080849A9FA0BB3F /* main.kt */ = {isa = PBXFileReference; lastKnownFileType = file.kt; path = main.kt; sourceTree = "<group>"; };
+		214D4061F19360FB0933BF8A /* build.gradle.kts */ = {isa = PBXFileReference; lastKnownFileType = file.kts; path = build.gradle.kts; sourceTree = "<group>"; };
+		214D4731618EDC4513923237 /* kotlin_framework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = kotlin_framework.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		214D4737724BB6699617FB26 /* AppDelegate.kt */ = {isa = PBXFileReference; lastKnownFileType = file.kt; path = AppDelegate.kt; sourceTree = "<group>"; };
+		214D4794E0084362D5FA58B9 /* gradle-wrapper.jar */ = {isa = PBXFileReference; lastKnownFileType = archive.jar; path = "gradle-wrapper.jar"; sourceTree = "<group>"; };
+		214D4815FCE1A3548EA11B41 /* gradle-wrapper.properties */ = {isa = PBXFileReference; lastKnownFileType = file.properties; path = "gradle-wrapper.properties"; sourceTree = "<group>"; };
+		214D48872B54266522A6356E /* gradlew */ = {isa = PBXFileReference; lastKnownFileType = text; path = gradlew; sourceTree = "<group>"; };
+		214D4A09D42592C60746AC00 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
+		214D4A2CEB2AE6E23A6082E7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		214D4A4797DC8CD648D2A31D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		214D4BB4B000E5A2AAA879B7 /* build.gradle.kts */ = {isa = PBXFileReference; lastKnownFileType = file.kts; path = build.gradle.kts; sourceTree = "<group>"; };
+		214D4C026221FB9594D6BF48 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		214D4CFF399C9C339D90955E /* ViewController.kt */ = {isa = PBXFileReference; lastKnownFileType = file.kt; path = ViewController.kt; sourceTree = "<group>"; };
+		214D4DA905DC4E29508F6BA7 /* main.kt */ = {isa = PBXFileReference; lastKnownFileType = file.kt; path = main.kt; sourceTree = "<group>"; };
+		214D4F11649D7095B9148EC0 /* settings.gradle.kts */ = {isa = PBXFileReference; lastKnownFileType = file.kts; path = settings.gradle.kts; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		214D42D893B9C792B28BE1DB /* Frameworks */ = {
+		214D4C8112497E47D14931E8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -40,128 +40,128 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		214D40B84A988E29AE617459 /* application */ = {
+		214D40F54D14C89DAFA5220A /* kotlin_framework */ = {
 			isa = PBXGroup;
 			children = (
-				214D41B27762BA0F464B840D /* Supporting Files */,
-				214D4865F7DAEC79C52EDC61 /* Info.plist */,
-				214D46729617DEEB2A0A04D7 /* Assets.xcassets */,
-				214D4D0E876B84F98774AE8F /* LaunchScreen.storyboard */,
-				214D4E3D533AE3D05139F201 /* Main.storyboard */,
-				214D441ABD2E85C33B1E75EF /* src */,
+				214D4B9F406419F61CCBC0D2 /* Supporting Files */,
+				214D4A09D42592C60746AC00 /* Info.plist */,
+				214D4A2CEB2AE6E23A6082E7 /* Assets.xcassets */,
+				214D4C6779CDFEBE06700906 /* LaunchScreen.storyboard */,
+				214D471C58FDD2B26E4F74EC /* Main.storyboard */,
+				214D4C5302F0B37985C4D888 /* src */,
 			);
-			path = application;
+			path = kotlin_framework;
 			sourceTree = "<group>";
 		};
-		214D41B27762BA0F464B840D /* Supporting Files */ = {
+		214D430719CDF6BBBE2DE0BD /* gradle */ = {
 			isa = PBXGroup;
 			children = (
-				214D42376290795CEAE28D00 /* build.gradle.kts */,
-			);
-			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		214D441ABD2E85C33B1E75EF /* src */ = {
-			isa = PBXGroup;
-			children = (
-				214D44BBADF10DCE01FA4165 /* applicationMain */,
-			);
-			path = src;
-			sourceTree = "<group>";
-		};
-		214D44BBADF10DCE01FA4165 /* applicationMain */ = {
-			isa = PBXGroup;
-			children = (
-				214D4D251A6DAC004536D5E9 /* kotlin */,
-			);
-			path = applicationMain;
-			sourceTree = "<group>";
-		};
-		214D4747FB2AD57524119FB5 /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				214D4DA52B2BA34B441DECB6 /* build.gradle.kts */,
-				214D412C1B325A929D90D74B /* gradlew */,
-				214D4A2DF5EC688EE63ED7BE /* gradle */,
-				214D4C6EF736932B85D96046 /* settings.gradle.kts */,
-			);
-			path = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		214D4A2DF5EC688EE63ED7BE /* gradle */ = {
-			isa = PBXGroup;
-			children = (
-				214D4F035EE2DE4764A540B2 /* wrapper */,
+				214D44B2249386218C85C7B1 /* wrapper */,
 			);
 			path = gradle;
 			sourceTree = "<group>";
 		};
-		214D4B6CFD65A5C6C1E5B7CC = {
+		214D449AA423507472523FE7 /* kotlin_frameworkMain */ = {
 			isa = PBXGroup;
 			children = (
-				214D4E069AA4DA069675BC69 /* Products */,
-				214D40B84A988E29AE617459 /* application */,
-				214D4747FB2AD57524119FB5 /* Supporting Files */,
+				214D48E17149C2D32CEBE5D3 /* kotlin */,
+			);
+			path = kotlin_frameworkMain;
+			sourceTree = "<group>";
+		};
+		214D44B2249386218C85C7B1 /* wrapper */ = {
+			isa = PBXGroup;
+			children = (
+				214D4815FCE1A3548EA11B41 /* gradle-wrapper.properties */,
+				214D4794E0084362D5FA58B9 /* gradle-wrapper.jar */,
+			);
+			path = wrapper;
+			sourceTree = "<group>";
+		};
+		214D4611A6AF1BDEAE09C569 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				214D4061F19360FB0933BF8A /* build.gradle.kts */,
+				214D48872B54266522A6356E /* gradlew */,
+				214D430719CDF6BBBE2DE0BD /* gradle */,
+				214D4F11649D7095B9148EC0 /* settings.gradle.kts */,
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		214D47138FD6D5240C833AAF = {
+			isa = PBXGroup;
+			children = (
+				214D4F09AD06B73A3A9B8A6E /* Products */,
+				214D40F54D14C89DAFA5220A /* kotlin_framework */,
+				214D4611A6AF1BDEAE09C569 /* Supporting Files */,
 			);
 			sourceTree = "<group>";
 		};
-		214D4D251A6DAC004536D5E9 /* kotlin */ = {
+		214D48E17149C2D32CEBE5D3 /* kotlin */ = {
 			isa = PBXGroup;
 			children = (
-				214D4507971EEC88C163900B /* AppDelegate.kt */,
-				214D42300E53432CD8F94DD8 /* ViewController.kt */,
-				214D4FEA2080849A9FA0BB3F /* main.kt */,
+				214D4737724BB6699617FB26 /* AppDelegate.kt */,
+				214D4CFF399C9C339D90955E /* ViewController.kt */,
+				214D4DA905DC4E29508F6BA7 /* main.kt */,
 			);
 			path = kotlin;
 			sourceTree = "<group>";
 		};
-		214D4E069AA4DA069675BC69 /* Products */ = {
+		214D4B9F406419F61CCBC0D2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				214D4D5F9C1475A159AA880F /* application.app */,
+				214D4BB4B000E5A2AAA879B7 /* build.gradle.kts */,
 			);
-			name = Products;
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		214D4F035EE2DE4764A540B2 /* wrapper */ = {
+		214D4C5302F0B37985C4D888 /* src */ = {
 			isa = PBXGroup;
 			children = (
-				214D4023CADEA246C5CA1EF5 /* gradle-wrapper.properties */,
-				214D476583097AF8F428082D /* gradle-wrapper.jar */,
+				214D449AA423507472523FE7 /* kotlin_frameworkMain */,
 			);
-			path = wrapper;
+			path = src;
+			sourceTree = "<group>";
+		};
+		214D4F09AD06B73A3A9B8A6E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				214D4731618EDC4513923237 /* kotlin_framework.app */,
+			);
+			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		214D4683873480AE639DB47E /* application */ = {
+		214D413BA6FEC7A64F2FC553 /* kotlin_framework */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 214D447F65971D5B6AB3EF60 /* Build configuration list for PBXNativeTarget "application" */;
+			buildConfigurationList = 214D47FCDD9384F960E28011 /* Build configuration list for PBXNativeTarget "kotlin_framework" */;
 			buildPhases = (
-				214D484E7EBF9788B025964A /* Sources */,
-				214D42D893B9C792B28BE1DB /* Frameworks */,
-				214D41A2834509C8C92797EB /* Resources */,
-				214D450ECA1AE7FD29C61AC4 /* Compile Kotlin/Native */,
+				214D4EA97D49FCFB962FBEE3 /* Sources */,
+				214D4C8112497E47D14931E8 /* Frameworks */,
+				214D434121F2A9F95351A800 /* Resources */,
+				214D4D16D114DF20A99110BF /* Compile Kotlin/Native */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = application;
-			productName = application;
-			productReference = 214D4D5F9C1475A159AA880F /* application.app */;
+			name = kotlin_framework;
+			productName = kotlin_framework;
+			productReference = 214D4731618EDC4513923237 /* kotlin_framework.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		214D4000CAF5E980E3F0ED55 /* Project object */ = {
+		214D4027D23315BBB5C0A2AD /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				ORGANIZATIONNAME = "___FULLUSERNAME___";
 			};
-			buildConfigurationList = 214D4A5ADC85CA29F5181E46 /* Build configuration list for PBXProject "application" */;
+			buildConfigurationList = 214D49B7469339E8EBA76B07 /* Build configuration list for PBXProject "kotlin_framework" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -170,31 +170,31 @@
 				en,
 				Base,
 			);
-			mainGroup = 214D4B6CFD65A5C6C1E5B7CC;
-			productRefGroup = 214D4E069AA4DA069675BC69 /* Products */;
+			mainGroup = 214D47138FD6D5240C833AAF;
+			productRefGroup = 214D4F09AD06B73A3A9B8A6E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				214D4683873480AE639DB47E /* application */,
+				214D413BA6FEC7A64F2FC553 /* kotlin_framework */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		214D41A2834509C8C92797EB /* Resources */ = {
+		214D434121F2A9F95351A800 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				214D4D6BA9C2F9C6B015E280 /* Assets.xcassets in Resources */,
-				214D4BA91976104A2E41442A /* LaunchScreen.storyboard in Resources */,
-				214D445A7089F2E41A9C15BD /* Main.storyboard in Resources */,
+				214D4E7AE55994DFB2702B16 /* Assets.xcassets in Resources */,
+				214D4484F93BE3CC8B57DA50 /* LaunchScreen.storyboard in Resources */,
+				214D425101C6917D45303588 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		214D450ECA1AE7FD29C61AC4 /* Compile Kotlin/Native */ = {
+		214D4D16D114DF20A99110BF /* Compile Kotlin/Native */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -206,12 +206,12 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "rm -f \"$TARGET_BUILD_DIR/$EXECUTABLE_PATH\"\nif [ -z \"$KOTLIN_NATIVE_BUILD_CAPABLE\" ]; then\n  cd \"$SRCROOT/Supporting Files\"\n  sh -c \". gradlew buildForXcode\"\nfi\ncp \"$TARGET_BUILD_DIR/$TARGET_NAME.kexe\" \"$TARGET_BUILD_DIR/$EXECUTABLE_PATH\"";
+			shellScript = "rm -f \"$TARGET_BUILD_DIR/$EXECUTABLE_PATH\"\n#if [ -z \"$KOTLIN_NATIVE_BUILD_CAPABLE\" ]; then\n  cd \"$SRCROOT/Supporting Files\"\n  sh -c \". gradlew buildForXcode\"\n#fi\ncp \"$TARGET_BUILD_DIR/$TARGET_NAME.kexe\" \"$TARGET_BUILD_DIR/$EXECUTABLE_PATH\"\n";
 		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		214D484E7EBF9788B025964A /* Sources */ = {
+		214D4EA97D49FCFB962FBEE3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -221,39 +221,26 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		214D4D0E876B84F98774AE8F /* LaunchScreen.storyboard */ = {
+		214D471C58FDD2B26E4F74EC /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				214D4C485F118E6D5CD970D5 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-		214D4E3D533AE3D05139F201 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				214D483E5B5F6387565C1E4D /* Base */,
+				214D4A4797DC8CD648D2A31D /* Base */,
 			);
 			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		214D4C6779CDFEBE06700906 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				214D4C026221FB9594D6BF48 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		214D42F1759C88742FBEDFDE /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = application/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = app.application;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = arm64;
-			};
-			name = Release;
-		};
-		214D4344D0495B49020F1180 /* Release */ = {
+		214D44319BF38D7D0BBB973A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -306,7 +293,7 @@
 			};
 			name = Release;
 		};
-		214D4347D8D24C153F071801 /* Debug */ = {
+		214D4A7D7D5D3700F431A8EF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -365,13 +352,26 @@
 			};
 			name = Debug;
 		};
-		214D4A7A67D3C0CD7408C0AC /* Debug */ = {
+		214D4DC1542A409EFB480DD8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = application/Info.plist;
+				INFOPLIST_FILE = kotlin_framework/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = app.application;
+				PRODUCT_BUNDLE_IDENTIFIER = "app.kotlin-framework";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALID_ARCHS = arm64;
+			};
+			name = Release;
+		};
+		214D4F3B5D8382A5D3600B84 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = kotlin_framework/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "app.kotlin-framework";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = arm64;
@@ -381,25 +381,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		214D447F65971D5B6AB3EF60 /* Build configuration list for PBXNativeTarget "application" */ = {
+		214D47FCDD9384F960E28011 /* Build configuration list for PBXNativeTarget "kotlin_framework" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				214D4A7A67D3C0CD7408C0AC /* Debug */,
-				214D42F1759C88742FBEDFDE /* Release */,
+				214D4F3B5D8382A5D3600B84 /* Debug */,
+				214D4DC1542A409EFB480DD8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		214D4A5ADC85CA29F5181E46 /* Build configuration list for PBXProject "application" */ = {
+		214D49B7469339E8EBA76B07 /* Build configuration list for PBXProject "kotlin_framework" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				214D4347D8D24C153F071801 /* Debug */,
-				214D4344D0495B49020F1180 /* Release */,
+				214D4A7D7D5D3700F431A8EF /* Debug */,
+				214D44319BF38D7D0BBB973A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 214D4000CAF5E980E3F0ED55 /* Project object */;
+	rootObject = 214D4027D23315BBB5C0A2AD /* Project object */;
 }
